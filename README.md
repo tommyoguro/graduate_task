@@ -88,20 +88,14 @@ https://docs.google.com/spreadsheets/d/1kMgj0mwEnhFxvtPUdPMxrRiotgmSvfesFfK1T65J
 
 
 ######## ワイヤーフレーム
-https://cacoo.com/diagrams/s5L6ngqeZZ05JoF3/134F2
+https://cacoo.com/diagrams/s5L6ngqeZZ05JoF3/E588C
+
+![スクリーンショット 2025-01-21 013853](https://github.com/user-attachments/assets/f9e850cc-61ae-4987-a80a-ff7ec1f293b3)
+
+![スクリーンショット 2025-01-21 013933](https://github.com/user-attachments/assets/1ff6c90f-e15a-4cf0-a631-48ace25225f7)
 
 ######## ER図
-
-![スクリーンショット 2025-01-06 163557](https://github.com/user-attachments/assets/0d7ba51b-b28f-4a0b-acce-eea1ed87af81)
-
-![スクリーンショット 2025-01-06 163926](https://github.com/user-attachments/assets/494f3af3-384f-4c90-bb44-7943d7a64dfc)
-
-![スクリーンショット 2025-01-06 163955](https://github.com/user-attachments/assets/7718e326-0eaf-4a3c-a893-a71da6ef8761)
-
-
-######### ワイヤーフレーム
-
-![スクリーンショット 2025-01-06 164235](https://github.com/user-attachments/assets/cba6c4a8-66b7-4710-9a7e-5d4db28d6508)
+![スクリーンショット 2025-01-21 013750](https://github.com/user-attachments/assets/44a50346-000a-4fb6-ac80-b9306944af1a)
 
 
 
