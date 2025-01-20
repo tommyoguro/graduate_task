@@ -39,7 +39,7 @@ B to Bビジネスにおいては以下理由により『人対人』による�
 どのような問題を解決するために開発したのか？												
 誰の : 右図の通り、ユーザー（販売先）、サプライヤー（仕入先）、商社（卸売企業）												
 												
-問題：（ユーザー側）短納期で欲しいにもかかわらず、担当者（人）がつかまらない			![image](https://github.com/user-attachments/assets/61c37c84-3981-4784-8719-89039a105b08)
+問題：（ユーザー側）短納期で欲しいにもかかわらず、担当者（人）がつかまらない			
 									
 レスポンス、回答（問い合わせ、見積等）が遅い												
 欲しい商品がすぐに見つけられない												
@@ -52,7 +52,10 @@ B to Bビジネスにおいては以下理由により『人対人』による�
 人手が足りず、高額取引を優先し、少額取引の優先度が下がってしまう												
 双方（ユーザー、サプライヤー）とのコミュニケーション工数がかかる。														
 
-＃		機能説明											優先度						
+![image](https://github.com/user-attachments/assets/61c37c84-3981-4784-8719-89039a105b08)
+
+
+##### 機能説明											優先度						
 																			
 1		ユーザー登録										高						
 		ユーザー登録機能																	
@@ -78,25 +81,25 @@ B to Bビジネスにおいては以下理由により『人対人』による�
 8		見積依頼一覧表示機能									高						
 		全見積依頼を一覧表で表示する機能																	
 																			
-9		メール送信機能											高						
+9		メール送信機能										高						
 		ユーザーに対するメール送信機能																								
 
 
-##### カタログ設計
+###### カタログ設計
 https://docs.google.com/spreadsheets/d/1kMgj0mwEnhFxvtPUdPMxrRiotgmSvfesFfK1T65JSDw/edit?usp=sharing
  
-###### テーブル定義書
+####### テーブル定義書
 https://docs.google.com/spreadsheets/d/1kMgj0mwEnhFxvtPUdPMxrRiotgmSvfesFfK1T65JSDw/edit?usp=sharing
 
 
-######## ワイヤーフレーム
+######### ワイヤーフレーム
 https://cacoo.com/diagrams/s5L6ngqeZZ05JoF3/E588C
 
 ![スクリーンショット 2025-01-21 013853](https://github.com/user-attachments/assets/f9e850cc-61ae-4987-a80a-ff7ec1f293b3)
 
 ![スクリーンショット 2025-01-21 013933](https://github.com/user-attachments/assets/1ff6c90f-e15a-4cf0-a631-48ace25225f7)
 
-######## ER図
+######### ER図
 ![スクリーンショット 2025-01-21 013750](https://github.com/user-attachments/assets/44a50346-000a-4fb6-ac80-b9306944af1a)
 
 
